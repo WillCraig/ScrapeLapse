@@ -4,9 +4,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+.idea/
+image_copy*/
+expv*.mp4
+
+
+
 # C extensions
 *.so
-.idea/
 # Distribution / packaging
 .Python
 build/
