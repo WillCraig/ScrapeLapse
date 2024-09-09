@@ -1,5 +1,5 @@
 import os
-import datetime
+from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
